@@ -1,8 +1,4 @@
-## BRIDGEi2i's Automatic Headline And Sentiment Generator
 
-This Repo Contains the code and presentation of IIT (BHU) Varanasi Team for the [event](bridgei2i-PS.pdf) BRIDGEi2i's Automatic Headline And Sentiment Generator at Inter IIT Tech Meet '21. Our Team secured a **Silver Medal** at the event.  
-
-### Salient Features
 <p align="center">
 <img width=600 height=360 style="background-color:White;" alt="salient features" src="media/salient_features.png">
 </p>
